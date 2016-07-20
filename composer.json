@@ -1,0 +1,12 @@
+{
+    "name": "ikuo.degawa/composetest",
+    "authors": [
+        {
+            "name": "Ikuo Degawa",
+            "email": "degawa@ikuwow.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^5.2"
+    }
+}
